@@ -1,0 +1,202 @@
+Country Code,Country Name,Region, Value 
+AFG,Afghanistan,South Asia,35.25
+ALB,Albania,Europe & Central Asia,12.88
+DZA,Algeria,Middle East & North Africa,24.74
+AGO,Angola,Sub-Saharan Africa,45.99
+ATG,Antigua and Barbuda,Latin America & Caribbean,16.45
+ARG,Argentina,Latin America & Caribbean,17.72
+ARM,Armenia,Europe & Central Asia,13.31
+ABW,Aruba,Latin America & Caribbean,10.24
+AUS,Australia,East Asia & Pacific,13.2
+AUT,Austria,Europe & Central Asia,9.4
+AZE,Azerbaijan,Europe & Central Asia,18.3
+BHS,"Bahamas, The",Latin America & Caribbean,15.34
+BHR,Bahrain,Middle East & North Africa,15.04
+BGD,Bangladesh,South Asia,20.14
+BRB,Barbados,Latin America & Caribbean,12.19
+BLR,Belarus,Europe & Central Asia,12.5
+BEL,Belgium,Europe & Central Asia,11.2
+BLZ,Belize,Latin America & Caribbean,23.09
+BEN,Benin,Sub-Saharan Africa,36.44
+BMU,Bermuda,North America,10.4
+BTN,Bhutan,South Asia,18.13
+BOL,Bolivia,Latin America & Caribbean,24.24
+BIH,Bosnia and Herzegovina,Europe & Central Asia,9.06
+BWA,Botswana,Sub-Saharan Africa,25.27
+BRA,Brazil,Latin America & Caribbean,14.93
+BRN,Brunei Darussalam,East Asia & Pacific,16.41
+BGR,Bulgaria,Europe & Central Asia,9.2
+BFA,Burkina Faso,Sub-Saharan Africa,40.55
+BDI,Burundi,Sub-Saharan Africa,44.15
+CPV,Cabo Verde,Sub-Saharan Africa,21.63
+KHM,Cambodia,East Asia & Pacific,24.46
+CMR,Cameroon,Sub-Saharan Africa,37.24
+CAN,Canada,North America,10.9
+CYM,Cayman Islands,Latin America & Caribbean,12.5
+CAF,Central African Republic,Sub-Saharan Africa,34.08
+TCD,Chad,Sub-Saharan Africa,45.75
+CHI,Channel Islands,Europe & Central Asia,9.52
+CHL,Chile,Latin America & Caribbean,13.39
+CHN,China,East Asia & Pacific,12.1
+COL,Colombia,Latin America & Caribbean,16.08
+COM,Comoros,Sub-Saharan Africa,34.33
+ZAR,"Congo, Dem. Rep.",Sub-Saharan Africa,42.39
+COG,"Congo, Rep.",Sub-Saharan Africa,37.01
+CRI,Costa Rica,Latin America & Caribbean,15.02
+CIV,Cote d'Ivoire,Sub-Saharan Africa,37.32
+HRV,Croatia,Europe & Central Asia,9.4
+CUB,Cuba,Latin America & Caribbean,10.4
+CUW,Curacao,Latin America & Caribbean,12.7
+CYP,Cyprus,Europe & Central Asia,11.44
+CZE,Czech Republic,Europe & Central Asia,10.2
+DNK,Denmark,Europe & Central Asia,10
+DJI,Djibouti,Middle East & North Africa,25.49
+DOM,Dominican Republic,Latin America & Caribbean,21.2
+ECU,Ecuador,Latin America & Caribbean,21.07
+EGY,"Egypt, Arab Rep.",Middle East & North Africa,28.03
+SLV,El Salvador,Latin America & Caribbean,17.48
+GNQ,Equatorial Guinea,Sub-Saharan Africa,35.36
+ERI,Eritrea,Sub-Saharan Africa,34.8
+EST,Estonia,Europe & Central Asia,10.3
+ETH,Ethiopia,Sub-Saharan Africa,32.93
+FJI,Fiji,East Asia & Pacific,20.46
+FIN,Finland,Europe & Central Asia,10.7
+FRA,France,Europe & Central Asia,12.3
+PYF,French Polynesia,East Asia & Pacific,16.39
+GAB,Gabon,Sub-Saharan Africa,30.56
+GMB,"Gambia, The",Sub-Saharan Africa,42.53
+GEO,Georgia,Europe & Central Asia,13.33
+DEU,Germany,Europe & Central Asia,8.5
+GHA,Ghana,Sub-Saharan Africa,33.13
+GRC,Greece,Europe & Central Asia,8.5
+GRL,Greenland,Europe & Central Asia,14.5
+GRD,Grenada,Latin America & Caribbean,19.33
+GUM,Guam,East Asia & Pacific,17.39
+GTM,Guatemala,Latin America & Caribbean,27.47
+GIN,Guinea,Sub-Saharan Africa,37.34
+GNB,Guinea-Bissau,Sub-Saharan Africa,37.5
+GUY,Guyana,Latin America & Caribbean,18.89
+HTI,Haiti,Latin America & Caribbean,25.35
+HND,Honduras,Latin America & Caribbean,21.59
+HKG,"Hong Kong SAR, China",East Asia & Pacific,7.9
+HUN,Hungary,Europe & Central Asia,9.2
+ISL,Iceland,Europe & Central Asia,13.4
+IND,India,South Asia,20.29
+IDN,Indonesia,East Asia & Pacific,20.3
+IRN,"Iran, Islamic Rep.",Middle East & North Africa,17.9
+IRQ,Iraq,Middle East & North Africa,31.09
+IRL,Ireland,Europe & Central Asia,15
+ISR,Israel,Middle East & North Africa,21.3
+ITA,Italy,Europe & Central Asia,8.5
+JAM,Jamaica,Latin America & Caribbean,13.54
+JPN,Japan,East Asia & Pacific,8.2
+JOR,Jordan,Middle East & North Africa,27.05
+KAZ,Kazakhstan,Europe & Central Asia,22.73
+KEN,Kenya,Sub-Saharan Africa,35.19
+KIR,Kiribati,East Asia & Pacific,29.04
+PRK,"Korea, Dem. Rep.",East Asia & Pacific,14.36
+KOR,"Korea, Rep.",East Asia & Pacific,8.6
+KSV,Kosovo,Europe & Central Asia,17.7
+KWT,Kuwait,Middle East & North Africa,20.58
+KGZ,Kyrgyz Republic,Europe & Central Asia,27.2
+LAO,Lao PDR,East Asia & Pacific,27.05
+LVA,Latvia,Europe & Central Asia,10.2
+LBN,Lebanon,Middle East & North Africa,13.43
+LSO,Lesotho,Sub-Saharan Africa,28.74
+LBR,Liberia,Sub-Saharan Africa,35.52
+LBY,Libya,Middle East & North Africa,21.43
+LIE,Liechtenstein,Europe & Central Asia,9.2
+LTU,Lithuania,Europe & Central Asia,10.1
+LUX,Luxembourg,Europe & Central Asia,11.3
+MAC,"Macao SAR, China",East Asia & Pacific,11.26
+MKD,"Macedonia, FYR",Europe & Central Asia,11.22
+MDG,Madagascar,Sub-Saharan Africa,34.69
+MWI,Malawi,Sub-Saharan Africa,39.46
+MYS,Malaysia,East Asia & Pacific,16.81
+MDV,Maldives,South Asia,21.45
+MLI,Mali,Sub-Saharan Africa,44.14
+MLT,Malta,Middle East & North Africa,9.5
+MRT,Mauritania,Sub-Saharan Africa,33.8
+MUS,Mauritius,Sub-Saharan Africa,10.9
+MEX,Mexico,Latin America & Caribbean,19.1
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,23.51
+MDA,Moldova,Europe & Central Asia,12.14
+MNG,Mongolia,East Asia & Pacific,24.28
+MNE,Montenegro,Europe & Central Asia,11.62
+MAR,Morocco,Middle East & North Africa,21.02
+MOZ,Mozambique,Sub-Saharan Africa,39.71
+MMR,Myanmar,East Asia & Pacific,18.12
+NAM,Namibia,Sub-Saharan Africa,29.94
+NPL,Nepal,South Asia,20.92
+NLD,Netherlands,Europe & Central Asia,10.2
+NCL,New Caledonia,East Asia & Pacific,17
+NZL,New Zealand,East Asia & Pacific,13.12
+NIC,Nicaragua,Latin America & Caribbean,20.79
+NER,Niger,Sub-Saharan Africa,49.66
+NGA,Nigeria,Sub-Saharan Africa,40.05
+NOR,Norway,Europe & Central Asia,11.6
+OMN,Oman,Middle East & North Africa,20.42
+PAK,Pakistan,South Asia,29.58
+PLW,Palau,East Asia & Pacific,13.1
+PAN,Panama,Latin America & Caribbean,19.68
+PNG,Papua New Guinea,East Asia & Pacific,28.9
+PRY,Paraguay,Latin America & Caribbean,21.59
+PER,Peru,Latin America & Caribbean,20.2
+PHL,Philippines,East Asia & Pacific,23.79
+POL,Poland,Europe & Central Asia,9.6
+PRT,Portugal,Europe & Central Asia,7.9
+PRI,Puerto Rico,Latin America & Caribbean,10.8
+QAT,Qatar,Middle East & North Africa,11.94
+ROM,Romania,Europe & Central Asia,8.8
+RUS,Russian Federation,Europe & Central Asia,13.2
+RWA,Rwanda,Sub-Saharan Africa,32.69
+WSM,Samoa,East Asia & Pacific,26.17
+STP,Sao Tome and Principe,Sub-Saharan Africa,34.54
+SAU,Saudi Arabia,Middle East & North Africa,20.58
+SEN,Senegal,Sub-Saharan Africa,38.53
+SRB,Serbia,Europe & Central Asia,9.2
+SYC,Seychelles,Sub-Saharan Africa,18.6
+SLE,Sierra Leone,Sub-Saharan Africa,36.73
+SGP,Singapore,East Asia & Pacific,9.3
+SVK,Slovak Republic,Europe & Central Asia,10.1
+SVN,Slovenia,Europe & Central Asia,10.2
+SLB,Solomon Islands,East Asia & Pacific,30.58
+SOM,Somalia,Sub-Saharan Africa,43.89
+ZAF,South Africa,Sub-Saharan Africa,20.85
+SSD,South Sudan,Sub-Saharan Africa,37.13
+ESP,Spain,Europe & Central Asia,9.1
+LKA,Sri Lanka,South Asia,17.86
+LCA,St. Lucia,Latin America & Caribbean,15.43
+MAF,St. Martin (French part),Latin America & Caribbean,16
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,16.31
+SDN,Sudan,Sub-Saharan Africa,33.48
+SUR,Suriname,Latin America & Caribbean,18.46
+SWZ,Swaziland,Sub-Saharan Africa,30.09
+SWE,Sweden,Europe & Central Asia,11.8
+CHE,Switzerland,Europe & Central Asia,10.2
+SYR,Syrian Arab Republic,Middle East & North Africa,24.04
+TJK,Tajikistan,Europe & Central Asia,30.79
+TZA,Tanzania,Sub-Saharan Africa,39.52
+THA,Thailand,East Asia & Pacific,11.04
+TMP,Timor-Leste,East Asia & Pacific,35.76
+TGO,Togo,Sub-Saharan Africa,36.08
+TON,Tonga,East Asia & Pacific,25.41
+TTO,Trinidad and Tobago,Latin America & Caribbean,14.59
+TUN,Tunisia,Middle East & North Africa,19.8
+TUR,Turkey,Europe & Central Asia,16.84
+TKM,Turkmenistan,Europe & Central Asia,21.32
+UGA,Uganda,Sub-Saharan Africa,43.47
+UKR,Ukraine,Europe & Central Asia,11.1
+ARE,United Arab Emirates,Middle East & North Africa,11.04
+GBR,United Kingdom,Europe & Central Asia,12.2
+USA,United States,North America,12.5
+URY,Uruguay,Latin America & Caribbean,14.37
+UZB,Uzbekistan,Europe & Central Asia,22.5
+VUT,Vanuatu,East Asia & Pacific,26.74
+VEN,"Venezuela, RB",Latin America & Caribbean,19.84
+VNM,Vietnam,East Asia & Pacific,15.54
+VIR,Virgin Islands (U.S.),Latin America & Caribbean,10.7
+WBG,West Bank and Gaza,Middle East & North Africa,30.39
+YEM,"Yemen, Rep.",Middle East & North Africa,32.95
+ZMB,Zambia,Sub-Saharan Africa,40.47
+ZWE,Zimbabwe,Sub-Saharan Africa,35.72
